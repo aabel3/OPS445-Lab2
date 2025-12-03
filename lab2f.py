@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS435 - Lab 2
+# lab2f.py
+# Author: Avraham Abel
 
 import sys
 
