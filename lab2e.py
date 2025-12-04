@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# OPS435 - Lab 2
+# OPS445 - Lab 2
 # lab2e.py
 # Author: Avraham Abel
 
